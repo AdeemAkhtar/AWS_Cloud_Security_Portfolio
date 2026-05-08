@@ -6,10 +6,10 @@ All the projects that I have completed on AWS to learn and demonstrate Security.
 
 ![<# alt text #>](1%20Encrypt%20Data%20with%20AWS%20KMS/Encrypt%20Data%20with%20AWS%20KMS%20Architecture.png "Screenshot")
 
-The Used Services:
+### The Used Services:
 
-IAM
-KMS
-DynamoDB
+* IAM
+* KMS
+* DynamoDB
 
 ---

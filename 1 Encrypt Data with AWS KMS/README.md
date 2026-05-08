@@ -9,9 +9,7 @@
 
 ---
 
-
-![<# alt text #>](Screenshot%202026-05-05%20at%203.42.47%E2%80%AFpm.png "Screenshot")
-
+![<# alt text #>](Encrypt%20Data%20with%20AWS%20KMS%20Architecture.png "Screenshot")
 ---
 
 ![Image](http://learn.nextwork.org/satisfied_silver_bold_rose_apple/uploads/aws-security-kms_w0x1y2z3)
