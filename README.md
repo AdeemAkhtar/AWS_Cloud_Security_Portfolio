@@ -12,4 +12,9 @@ All the projects that I have completed on AWS to learn and demonstrate Security.
 * KMS
 * DynamoDB
 
+### Summary:
+* Created and configured a Customer Managed Key in AWS KMS
+* Encrypted a DynamoDB table using the CMK
+* Controlled access to data via IAM and KMS key policies
+
 ---
