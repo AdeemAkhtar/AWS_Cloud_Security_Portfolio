@@ -34,3 +34,25 @@ All the projects that I have completed on AWS to learn and demonstrate Security.
 * Cleaned Git history with rebasing
 
 ---
+
+## Project (Part 3):Build a Security Monitoring System 
+![<# alt text #>](3_Build_a_Security_Monitoring_System/Architecture.png "Screenshot")
+
+### The Used Services:
+
+* AWS Secrets Manager
+* AWS CloudTrail
+* AWS CloudWatch Metric
+* AWS CloudWatch Alarm
+* Amazon SNS
+
+### Summary:
+Here's what I did:
+
+* Set up AWS Secrets Manager to securely store sensitive data
+* Configured AWS CloudTrail to track and log every access attempt
+* Created a CloudWatch Metric Filter to detect secret access events
+* Set up CloudWatch Alarms to trigger alerts when secrets are accessed
+* Integrated Amazon SNS to send me instant email notifications
+
+---
